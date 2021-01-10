@@ -1,0 +1,2 @@
+# goukon-master-backend
+サーバー側のスクリプト、ssh接続でpython動かしているので接続IDとパスワードは要変更
